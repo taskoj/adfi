@@ -20,6 +20,6 @@ Entdecke den Handgelenk-Honig, ein wahres Beauty-Wunder! Dieser spezielle Honig,
 
 Handgelenk-Honig ist ein Muss für jede Selfcare-Routine – gönn dir diesen natürlichen Schatz!
 
-![Handgelenk-Honig]({{ '/assets/img/Handgelenkhonig.jpg' | relative_url }})
+![Handgelenk-Honig]({{ '/assets/img/Handgelekhonig.jpg' | relative_url }})
 
 Viel Spaß mit Deinem neuen Lieblingsprodukt!
