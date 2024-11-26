@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nasen-Nektar
-subtitle: Dies ist Türchen Nummer 1. Nur noch 23 Tage bis Heiligabend!
+subtitle: Dies ist Türchen Nummer 2. Nur noch 22 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
 tags: [Beautyprodukte, Selfcare, Nasen-Nektar]
