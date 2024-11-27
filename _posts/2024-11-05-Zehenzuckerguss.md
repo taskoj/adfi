@@ -8,7 +8,7 @@ tags: [Beautyprodukte, Selfcare, Zehen-Zuckerguss]
 author: Arnd
 ---
 
-**Zehen-Zuckerguss** ist ein weiteres Beautyprodukt, das ich Dir heute vorstellen möchte.
+**Zehen-Zuckerguss** ist ein weiteres Beautyprodukt, das ich Dir heute vorstellen möchte. Wäre das nicht ein großartiges neues Pflegeprodukt? Was hältst Du davon? Ich bin gespannt. 
 
 ## Zehen-Zuckerguss
 

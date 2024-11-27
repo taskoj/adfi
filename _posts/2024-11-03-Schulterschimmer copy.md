@@ -8,7 +8,7 @@ tags: [Beautyprodukte, Selfcare, Schulter-Schimmer]
 author: Arnd
 ---
 
-**Schulter-Schimmer** ist ein weiteres Beautyprodukt, das ich Dir heute vorstellen möchte.
+**Schulter-Schimmer** ist ein weiteres Beautyprodukt, das ich Dir heute vorstellen möchte. Wäre das nicht ein großartiges neues Pflegeprodukt? Was hältst Du davon? Ich bin gespannt. 
 
 ## Schulter-Schimmer
 

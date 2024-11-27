@@ -8,7 +8,7 @@ tags: [Beautyprodukte, Selfcare, Nasen-Nektar]
 author: Arnd
 ---
 
-**Nasen-Nektar** ist ein weiteres Beautyprodukt, das ich Dir heute vorstellen möchte.
+**Nasen-Nektar** ist ein weiteres Beautyprodukt, das ich Dir heute vorstellen möchte. Wäre das nicht ein großartiges neues Pflegeprodukt? Was hältst Du davon? Ich bin gespannt. 
 
 ## Nasen-Nektar
 

@@ -8,7 +8,7 @@ tags: [Beautyprodukte, Selfcare, Ellbogen-Elixier]
 author: Arnd
 ---
 
-**Ellbogen-Elixier** ist ein weiteres Beautyprodukt, das ich Dir heute vorstellen möchte.
+**Ellbogen-Elixier** ist ein weiteres Beautyprodukt, das ich Dir heute vorstellen möchte. Wäre das nicht ein großartiges neues Pflegeprodukt? Was hältst Du davon? Ich bin gespannt. 
 
 ## Ellbogen-Elixier
 
