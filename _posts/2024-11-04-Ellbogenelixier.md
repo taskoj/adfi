@@ -4,7 +4,7 @@ title: Ellbogen-Elixier
 subtitle: Dies ist Türchen Nummer 4. Nur noch 20 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Beautyprodukte, Selfcare, Ellbogen-Elixier]
+tags: [Beautyprodukte, Ellbogen-Elixier]
 author: Arnd
 ---
 

@@ -4,7 +4,7 @@ title: Schulter-Schimmer
 subtitle: Dies ist Türchen Nummer 3. Nur noch 21 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Beautyprodukte, Selfcare, Schulter-Schimmer]
+tags: [Beautyprodukte, Schulter-Schimmer]
 author: Arnd
 ---
 

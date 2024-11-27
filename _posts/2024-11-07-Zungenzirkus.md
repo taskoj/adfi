@@ -4,7 +4,7 @@ title: Zungen-Zirkus
 subtitle: Dies ist Türchen Nummer 7. Nur noch 17 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Beautyprodukte, Selfcare, Zungen-Zirkus]
+tags: [Beautyprodukte, Zungen-Zirkus]
 author: Arnd
 ---
 

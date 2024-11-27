@@ -4,7 +4,7 @@ title: Zehen-Zuckerguss
 subtitle: Dies ist Türchen Nummer 5. Nur noch 19 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Beautyprodukte, Selfcare, Zehen-Zuckerguss]
+tags: [Beautyprodukte, Zehen-Zuckerguss]
 author: Arnd
 ---
 

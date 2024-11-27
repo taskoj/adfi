@@ -4,7 +4,7 @@ title: Handgelenk-Honig
 subtitle: Dies ist Türchen Nummer 1. Nur noch 23 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Beautyprodukte, Selfcare, Handgelenk-Honig]
+tags: [Beautyprodukte, Handgelenk-Honig]
 author: Arnd
 ---
 

@@ -4,7 +4,7 @@ title: Wangen-Weichmacher
 subtitle: Dies ist Türchen Nummer 6. Nur noch 18 Tage bis Heiligabend!
 cover-img: /assets/img/path.jpg
 thumbnail-img: ""
-tags: [Beautyprodukte, Selfcare, Wangen-Weichmacher]
+tags: [Beautyprodukte, Wangen-Weichmacher]
 author: Arnd
 ---
 
