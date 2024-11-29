@@ -12,8 +12,10 @@ author: Arnd
 
 ## Wangen-Weihnacht
 
-Die Wangen-Weihnachten sind ein bezauberndes Schmuckstück, das festliche Stimmung auf die Wangen zaubert. Diese einzigartigen Accessoires verleihen jedem Look eine weihnachtliche Note und sorgen für strahlende Gesichter. Die Wangen-Weihnachten sind in verschiedenen Designs erhältlich und kombinieren funkelnde Elemente mit festlichen Farben, die an die zauberhafte Atmosphäre der Weihnachtszeit erinnern. Einfach anzubringen, verwandeln sie jedes Gesicht in ein Kunstwerk und machen sie zum perfekten Highlight für Weihnachtsfeiern oder festliche Anlässe. Ob im Büro, beim Weihnachtsmarkt oder beim Familientreffen, die Wangen-Weihnachten bringen Freude und zaubern jedem ein Lächeln ins Gesicht. Mit diesen charmanten Schmuckstücken wird jede Begegnung zu einem festlichen Erlebnis, das in Erinnerung bleibt.
+Die Wangen-Weihnachten sind festliche Schmuckstücke, die Weihnachtsstimmung direkt ins Gesicht zaubern. In verschiedenen Designs erhältlich, kombinieren sie funkelnde Elemente mit weihnachtlichen Farben. Einfach anzubringen, verwandeln sie jedes Gesicht in ein Kunstwerk und sind perfekt für Weihnachtsfeiern, Büro-Events, Weihnachtsmärkte oder Familientreffen. Sie bringen Freude, zaubern Lächeln und machen jede Begegnung zu einem unvergesslichen festlichen Erlebnis.
 
 ![Wangen-Weihnacht]({{ '/assets/img/Wangenweihnacht.JPG' | relative_url }})
 
 Viel Spaß mit Deinem neuen Lieblingsprodukt!
+
+Und Dir nun frohe Festtage, Fiona!

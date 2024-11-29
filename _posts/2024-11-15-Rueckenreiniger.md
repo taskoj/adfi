@@ -12,7 +12,7 @@ author: Arnd
 
 ## Rücken-Reiniger
 
-Der Rückenreiniger ist ein effektives Reinigungs-Rubbel-Tuch, das speziell entwickelt wurde, um die Haut am Rücken gründlich zu reinigen. Mit seiner einzigartigen Mikro-Peeling-Oberfläche entfernt es sanft überschüssiges Fett und abgestorbene Hautzellen, wodurch die Poren porentief gereinigt werden. Die Verwendung des Rückenreinigers regt die Durchblutung an und sorgt für ein frisches, vitales Hautgefühl. Dank der praktischen Größe von etwa 60 x 15 cm erreicht er auch schwer zugängliche Stellen mühelos. Hergestellt aus hochwertiger Mikrofaser ist das Tuch dermatologisch getestet und eignet sich ideal für alle Hauttypen, insbesondere auch bei unreiner Haut. Mit diesem praktischen Hilfsmittel wird die Körperpflege zum Kinderspiel und sorgt für eine strahlende und gesunde Rückenhaut.
+Der Rückenreiniger ist ein effektives Mikro-Peeling-Tuch zur gründlichen Reinigung des Rückens. Seine einzigartige Oberfläche entfernt sanft überschüssiges Fett und abgestorbene Hautzellen, reinigt porentief und regt die Durchblutung an. Mit praktischer Größe von 60 x 15 cm erreicht er auch schwer zugängliche Stellen. Aus hochwertiger Mikrofaser, dermatologisch getestet, eignet er sich für alle Hauttypen, besonders bei unreiner Haut. Er macht die Körperpflege einfach und sorgt für strahlende, gesunde Rückenhaut.
 
 ![Ruecken-Reiniger]({{ '/assets/img/Rueckenreiniger.JPG' | relative_url }})
 

@@ -12,7 +12,7 @@ author: Arnd
 
 ## Hand-Hygiene
 
-Der Hand-Hygiene ist ein praktisches Produkt, das sicherstellt, dass immer mindestens eine Hand sauber bleibt. Es bietet eine effektive Lösung für alle, die viel unterwegs sind und nicht immer Zugang zu Wasser und Seife haben. Mit seiner speziellen Formel entfernt es Bakterien und sorgt für hygienisch saubere Hände, ohne dass eine gründliche Wäsche notwendig ist. Das Hand-Hygiene Produkt ist einfach in der Anwendung: Eine kleine Menge auf die Hände auftragen und gründlich einreiben, bis es vollständig eingezogen ist. Ideal für den Alltag, schützt es nicht nur vor Keimen, sondern sorgt auch dafür, dass man sich jederzeit frisch und gepflegt fühlt. Für den Fall, dass eine dritte Hand benötigt wird, kann man das Produkt auch nutzen, um die Hygiene zu gewährleisten, während man gleichzeitig andere Aufgaben erledigt. So bleibt man immer bereit und selbstbewusst, egal wo man sich befindet.
+Das Hand-Hygiene Produkt ist eine praktische Lösung für unterwegs, die Bakterien effektiv entfernt, ohne Wasser und Seife zu benötigen. Mit seiner speziellen Formel sorgt es für hygienisch saubere Hände durch einfaches Auftragen und Einreiben. Es schützt nicht nur vor Keimen, sondern gibt ein Gefühl von Frische und Sauberkeit. Ideal für den Alltag, ermöglicht es Nutzern, sich jederzeit und überall gepflegt und selbstbewusst zu fühlen – ganz ohne aufwendige Reinigung.
 
 ![Hand-Hygiene]({{ '/assets/img/Handhygiene.JPG' | relative_url }})
 

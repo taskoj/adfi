@@ -12,7 +12,7 @@ author: Arnd
 
 ## Lippen-Lappen
 
-Die Lippen-Lappen sind spezielle Tücher, die entwickelt wurden, um die Lippenpflege zu revolutionieren. Diese innovativen Tücher sind mit pflegenden Inhaltsstoffen angereichert, die helfen, die Lippen weich und geschmeidig zu halten. Sie entfernen sanft abgestorbene Hautzellen und sorgen dafür, dass die Lippen optimal mit Feuchtigkeit versorgt werden. Die Anwendung ist einfach und schnell: einfach das Tuch über die Lippen gleiten lassen und die wohltuende Pflege genießen. Ideal für unterwegs oder zu Hause, bieten die Lippen-Lappen eine praktische Lösung für alle, die auf gepflegte Lippen Wert legen. Mit ihrem kompakten Format passen sie in jede Tasche und sind somit der perfekte Begleiter für jeden Tag. Egal ob im Winter gegen trockene Lippen oder im Sommer für einen frischen Look, diese Tücher sind ein absolutes Must-have in jeder Beauty-Routine.
+Die Lippen-Lappen sind spezielle Tücher zur revolutionären Lippenpflege. Angereichert mit pflegenden Inhaltsstoffen halten sie die Lippen weich und geschmeidig, entfernen sanft abgestorbene Hautzellen und sorgen für optimale Feuchtigkeitsversorgung. Die Anwendung ist einfach: Tuch über die Lippen gleiten lassen und die Pflege genießen. Ideal für unterwegs oder zu Hause, passen sie in jede Tasche und sind der perfekte Begleiter für jeden Tag. Egal ob im Winter gegen Trockenheit oder im Sommer für Frische – diese Tücher sind ein Must-have in jeder Beauty-Routine.
 
 ![Lippen-Lappen]({{ '/assets/img/Lippenlappen.JPG' | relative_url }})
 
