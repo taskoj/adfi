@@ -16,6 +16,4 @@ Die Wangen-Weihnachten sind festliche Schmuckstücke, die Weihnachtsstimmung dir
 
 ![Wangen-Weihnacht]({{ '/assets/img/Wangenweihnacht.JPG' | relative_url }})
 
-Viel Spaß mit Deinem neuen Lieblingsprodukt!
-
-Und Dir nun frohe Festtage, Fiona!
+Frohe Festtage wünsche ich Dir nun, liebe Fiona!
