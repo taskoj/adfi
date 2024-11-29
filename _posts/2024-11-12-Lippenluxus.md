@@ -12,7 +12,7 @@ author: Arnd
 
 ## Lippen-Luxus
 
-Zungen-Zirkus ist ein verspieltes Pflegeprodukt, das speziell für deine Zungenpflege entwickelt wurde. Diese einzigartige Formel vereint pflegende Inhaltsstoffe mit einem spielerischen Ansatz, um deine Mundgesundheit auf eine ganz neue Art zu unterstützen. Einfach auftragen und die erfrischende Wirkung genießen: Der Zungen-Zirkus hilft, Bakterien zu reduzieren, erfrischt den Atem und sorgt für ein sauberes Mundgefühl. Ideal für Menschen, die Wert auf eine ganzheitliche Mundhygiene legen, verwandelt dieser Zirkus deine tägliche Pfegeroutine in ein kleines Erlebnis. Verwöhne deine Zunge mit diesem besonderen Elixier und erlebe die Magie der Mundpflege!
+Das Lippen-Luxus Produkt ist der Inbegriff von Eleganz und Pflege für eure Lippen. Es verleiht den Lippen nicht nur einen luxuriösen Glanz, sondern sorgt auch für ein geschmeidiges und gepflegtes Gefühl. Die Formel ist reich an hochwertigen Inhaltsstoffen, die die Lippen intensiv mit Feuchtigkeit versorgen und sie gleichzeitig vor schädlichen Umwelteinflüssen schützen. Mit einem sanften, angenehmen Duft und einer leichten Textur lässt sich das Lippen-Luxus Produkt mühelos auftragen und sorgt für ein strahlendes Finish. Perfekt für besondere Anlässe oder einfach für den Alltag, hebt es die natürliche Schönheit der Lippen hervor und lässt sie voller und verführerischer erscheinen. Egal ob allein getragen oder als Basis für Lippenstift, es ist ein unverzichtbarer Bestandteil jeder Beauty-Routine.
 
 ![Lippen-Luxus]({{ '/assets/img/Lippenluxus.JPG' | relative_url }})
 

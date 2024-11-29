@@ -12,7 +12,7 @@ author: Arnd
 
 ## Wimpern-Wunder
 
-Zungen-Zirkus ist ein verspieltes Pflegeprodukt, das speziell für deine Zungenpflege entwickelt wurde. Diese einzigartige Formel vereint pflegende Inhaltsstoffe mit einem spielerischen Ansatz, um deine Mundgesundheit auf eine ganz neue Art zu unterstützen. Einfach auftragen und die erfrischende Wirkung genießen: Der Zungen-Zirkus hilft, Bakterien zu reduzieren, erfrischt den Atem und sorgt für ein sauberes Mundgefühl. Ideal für Menschen, die Wert auf eine ganzheitliche Mundhygiene legen, verwandelt dieser Zirkus deine tägliche Pfegeroutine in ein kleines Erlebnis. Verwöhne deine Zunge mit diesem besonderen Elixier und erlebe die Magie der Mundpflege!
+Das Wimpenwunder ist ein faszinierendes Produkt, das dafür sorgt, dass eure Wimpern bis zu zehnmal größer wirken. Mit seiner speziellen Formel hebt es die Wimpern und verleiht ihnen ein beeindruckendes Volumen, das sofort ins Auge fällt. Die Anwendung ist denkbar einfach: Tragt das Produkt auf die Wimpern auf und erlebt, wie sie sich verdichten und verlängern. Das Wimpenwunder enthält pflegende Inhaltsstoffe, die nicht nur für einen glamourösen Look sorgen, sondern auch die Wimpern stärken und schützen. Ideal für besondere Anlässe oder einfach für den Alltag, lässt dieses Produkt eure Augen strahlen und sorgt dafür, dass ihr euch selbstbewusst und schön fühlt. Egal ob in Kombination mit Mascara oder allein getragen, das Wimpenwunder ist ein absolutes Must-have für jede Beauty-Liebhaberin, die ihren Wimpern den ultimativen Wow-Effekt verleihen möchte.
 
 ![Wimpern-Wunder]({{ '/assets/img/Wimpernwunder.JPG' | relative_url }})
 

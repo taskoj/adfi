@@ -12,7 +12,7 @@ author: Arnd
 
 ## Hand-Hygiene
 
-Zungen-Zirkus ist ein verspieltes Pflegeprodukt, das speziell für deine Zungenpflege entwickelt wurde. Diese einzigartige Formel vereint pflegende Inhaltsstoffe mit einem spielerischen Ansatz, um deine Mundgesundheit auf eine ganz neue Art zu unterstützen. Einfach auftragen und die erfrischende Wirkung genießen: Der Zungen-Zirkus hilft, Bakterien zu reduzieren, erfrischt den Atem und sorgt für ein sauberes Mundgefühl. Ideal für Menschen, die Wert auf eine ganzheitliche Mundhygiene legen, verwandelt dieser Zirkus deine tägliche Pfegeroutine in ein kleines Erlebnis. Verwöhne deine Zunge mit diesem besonderen Elixier und erlebe die Magie der Mundpflege!
+Der Hand-Hygiene ist ein praktisches Produkt, das sicherstellt, dass immer mindestens eine Hand sauber bleibt. Es bietet eine effektive Lösung für alle, die viel unterwegs sind und nicht immer Zugang zu Wasser und Seife haben. Mit seiner speziellen Formel entfernt es Bakterien und sorgt für hygienisch saubere Hände, ohne dass eine gründliche Wäsche notwendig ist. Das Hand-Hygiene Produkt ist einfach in der Anwendung: Eine kleine Menge auf die Hände auftragen und gründlich einreiben, bis es vollständig eingezogen ist. Ideal für den Alltag, schützt es nicht nur vor Keimen, sondern sorgt auch dafür, dass man sich jederzeit frisch und gepflegt fühlt. Für den Fall, dass eine dritte Hand benötigt wird, kann man das Produkt auch nutzen, um die Hygiene zu gewährleisten, während man gleichzeitig andere Aufgaben erledigt. So bleibt man immer bereit und selbstbewusst, egal wo man sich befindet.
 
 ![Hand-Hygiene]({{ '/assets/img/Handhygiene.JPG' | relative_url }})
 

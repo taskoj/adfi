@@ -12,7 +12,7 @@ author: Arnd
 
 ## Gesichts-Glanz
 
-Zungen-Zirkus ist ein verspieltes Pflegeprodukt, das speziell für deine Zungenpflege entwickelt wurde. Diese einzigartige Formel vereint pflegende Inhaltsstoffe mit einem spielerischen Ansatz, um deine Mundgesundheit auf eine ganz neue Art zu unterstützen. Einfach auftragen und die erfrischende Wirkung genießen: Der Zungen-Zirkus hilft, Bakterien zu reduzieren, erfrischt den Atem und sorgt für ein sauberes Mundgefühl. Ideal für Menschen, die Wert auf eine ganzheitliche Mundhygiene legen, verwandelt dieser Zirkus deine tägliche Pfegeroutine in ein kleines Erlebnis. Verwöhne deine Zunge mit diesem besonderen Elixier und erlebe die Magie der Mundpflege!
+Das Gesichtsglanz Produkt ist eine revolutionäre Innovation, die für ein strahlendes Hautbild sorgt. Mit feinsten Dioden ausgestattet, verleiht es der Haut einen einzigartigen Glanz, der sofort ins Auge fällt. Die Anwendung ist unkompliziert und lässt sich mühelos in die tägliche Pflege-Routine integrieren. Durch die gezielte Lichtreflexion werden Unreinheiten und kleine Unebenheiten sanft kaschiert, während die Haut gleichzeitig mit wichtigen Nährstoffen versorgt wird. Das Gesichtsglanz Produkt eignet sich für alle Hauttypen und kann sowohl allein als auch unter Make-up verwendet werden. Es ist der perfekte Begleiter für besondere Anlässe oder einfach für den Alltag, wenn ihr eurem Teint einen frischen, lebendigen Look verleihen möchtet. Mit Gesichtsglanz strahlt ihr jederzeit Selbstbewusstsein und Schönheit aus.
 
 ![Gesichts-Glanz]({{ '/assets/img/Gesichtsglanz.JPG' | relative_url }})
 

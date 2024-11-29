@@ -12,7 +12,7 @@ author: Arnd
 
 ## Rücken-Reiniger
 
-Zungen-Zirkus ist ein verspieltes Pflegeprodukt, das speziell für deine Zungenpflege entwickelt wurde. Diese einzigartige Formel vereint pflegende Inhaltsstoffe mit einem spielerischen Ansatz, um deine Mundgesundheit auf eine ganz neue Art zu unterstützen. Einfach auftragen und die erfrischende Wirkung genießen: Der Zungen-Zirkus hilft, Bakterien zu reduzieren, erfrischt den Atem und sorgt für ein sauberes Mundgefühl. Ideal für Menschen, die Wert auf eine ganzheitliche Mundhygiene legen, verwandelt dieser Zirkus deine tägliche Pfegeroutine in ein kleines Erlebnis. Verwöhne deine Zunge mit diesem besonderen Elixier und erlebe die Magie der Mundpflege!
+Der Rückenreiniger ist ein effektives Reinigungs-Rubbel-Tuch, das speziell entwickelt wurde, um die Haut am Rücken gründlich zu reinigen. Mit seiner einzigartigen Mikro-Peeling-Oberfläche entfernt es sanft überschüssiges Fett und abgestorbene Hautzellen, wodurch die Poren porentief gereinigt werden. Die Verwendung des Rückenreinigers regt die Durchblutung an und sorgt für ein frisches, vitales Hautgefühl. Dank der praktischen Größe von etwa 60 x 15 cm erreicht er auch schwer zugängliche Stellen mühelos. Hergestellt aus hochwertiger Mikrofaser ist das Tuch dermatologisch getestet und eignet sich ideal für alle Hauttypen, insbesondere auch bei unreiner Haut. Mit diesem praktischen Hilfsmittel wird die Körperpflege zum Kinderspiel und sorgt für eine strahlende und gesunde Rückenhaut.
 
 ![Ruecken-Reiniger]({{ '/assets/img/Rueckenreiniger.JPG' | relative_url }})
 

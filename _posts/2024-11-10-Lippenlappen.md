@@ -12,7 +12,7 @@ author: Arnd
 
 ## Lippen-Lappen
 
-Zungen-Zirkus ist ein verspieltes Pflegeprodukt, das speziell für deine Zungenpflege entwickelt wurde. Diese einzigartige Formel vereint pflegende Inhaltsstoffe mit einem spielerischen Ansatz, um deine Mundgesundheit auf eine ganz neue Art zu unterstützen. Einfach auftragen und die erfrischende Wirkung genießen: Der Zungen-Zirkus hilft, Bakterien zu reduzieren, erfrischt den Atem und sorgt für ein sauberes Mundgefühl. Ideal für Menschen, die Wert auf eine ganzheitliche Mundhygiene legen, verwandelt dieser Zirkus deine tägliche Pfegeroutine in ein kleines Erlebnis. Verwöhne deine Zunge mit diesem besonderen Elixier und erlebe die Magie der Mundpflege!
+Die Lippen-Lappen sind spezielle Tücher, die entwickelt wurden, um die Lippenpflege zu revolutionieren. Diese innovativen Tücher sind mit pflegenden Inhaltsstoffen angereichert, die helfen, die Lippen weich und geschmeidig zu halten. Sie entfernen sanft abgestorbene Hautzellen und sorgen dafür, dass die Lippen optimal mit Feuchtigkeit versorgt werden. Die Anwendung ist einfach und schnell: einfach das Tuch über die Lippen gleiten lassen und die wohltuende Pflege genießen. Ideal für unterwegs oder zu Hause, bieten die Lippen-Lappen eine praktische Lösung für alle, die auf gepflegte Lippen Wert legen. Mit ihrem kompakten Format passen sie in jede Tasche und sind somit der perfekte Begleiter für jeden Tag. Egal ob im Winter gegen trockene Lippen oder im Sommer für einen frischen Look, diese Tücher sind ein absolutes Must-have in jeder Beauty-Routine.
 
 ![Lippen-Lappen]({{ '/assets/img/Lippenlappen.JPG' | relative_url }})
 

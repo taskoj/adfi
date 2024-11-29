@@ -12,7 +12,7 @@ author: Arnd
 
 ## Nasen-Noppel
 
-Zungen-Zirkus ist ein verspieltes Pflegeprodukt, das speziell für deine Zungenpflege entwickelt wurde. Diese einzigartige Formel vereint pflegende Inhaltsstoffe mit einem spielerischen Ansatz, um deine Mundgesundheit auf eine ganz neue Art zu unterstützen. Einfach auftragen und die erfrischende Wirkung genießen: Der Zungen-Zirkus hilft, Bakterien zu reduzieren, erfrischt den Atem und sorgt für ein sauberes Mundgefühl. Ideal für Menschen, die Wert auf eine ganzheitliche Mundhygiene legen, verwandelt dieser Zirkus deine tägliche Pfegeroutine in ein kleines Erlebnis. Verwöhne deine Zunge mit diesem besonderen Elixier und erlebe die Magie der Mundpflege!
+Die poppigen Nasen-Noppel sind ein kreatives Accessoire, das garantiert jedem ein Lächeln ins Gesicht zaubert. Diese bunten, aufklebbaren Noppen verwandeln die Nase in einen echten Blickfang und sorgen für gute Laune, wo auch immer man hingeht. Mit ihrem verspielten Design sind sie perfekt für Partys, Festivals oder einfach nur für einen lustigen Tag mit Freunden. Die Anwendung ist kinderleicht: einfach auf die Nase drücken und schon wird der Look zum Highlight des Tages. Egal ob als Scherzartikel oder als Teil eines Kostüms, die Nasen-Noppel bringen Spaß und Freude in jede Situation. Sie sind nicht nur ein originelles Gadget, sondern auch eine tolle Möglichkeit, um das Eis zu brechen und neue Bekanntschaften zu schließen. Mit diesen charmanten Noppen wird jeder Augenblick unvergesslich!
 
 ![Nasen-Noppel]({{ '/assets/img/Nasennoppel.JPG' | relative_url }})
 

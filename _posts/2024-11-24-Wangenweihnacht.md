@@ -12,7 +12,7 @@ author: Arnd
 
 ## Wangen-Weihnacht
 
-Zungen-Zirkus ist ein verspieltes Pflegeprodukt, das speziell für deine Zungenpflege entwickelt wurde. Diese einzigartige Formel vereint pflegende Inhaltsstoffe mit einem spielerischen Ansatz, um deine Mundgesundheit auf eine ganz neue Art zu unterstützen. Einfach auftragen und die erfrischende Wirkung genießen: Der Zungen-Zirkus hilft, Bakterien zu reduzieren, erfrischt den Atem und sorgt für ein sauberes Mundgefühl. Ideal für Menschen, die Wert auf eine ganzheitliche Mundhygiene legen, verwandelt dieser Zirkus deine tägliche Pfegeroutine in ein kleines Erlebnis. Verwöhne deine Zunge mit diesem besonderen Elixier und erlebe die Magie der Mundpflege!
+Die Wangen-Weihnachten sind ein bezauberndes Schmuckstück, das festliche Stimmung auf die Wangen zaubert. Diese einzigartigen Accessoires verleihen jedem Look eine weihnachtliche Note und sorgen für strahlende Gesichter. Die Wangen-Weihnachten sind in verschiedenen Designs erhältlich und kombinieren funkelnde Elemente mit festlichen Farben, die an die zauberhafte Atmosphäre der Weihnachtszeit erinnern. Einfach anzubringen, verwandeln sie jedes Gesicht in ein Kunstwerk und machen sie zum perfekten Highlight für Weihnachtsfeiern oder festliche Anlässe. Ob im Büro, beim Weihnachtsmarkt oder beim Familientreffen, die Wangen-Weihnachten bringen Freude und zaubern jedem ein Lächeln ins Gesicht. Mit diesen charmanten Schmuckstücken wird jede Begegnung zu einem festlichen Erlebnis, das in Erinnerung bleibt.
 
 ![Wangen-Weihnacht]({{ '/assets/img/Wangenweihnacht.JPG' | relative_url }})
 
